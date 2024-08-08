@@ -1,0 +1,38 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+h1 {
+  text-align: center;
+  color: black !important;
+  background-color: white !important;
+  margin-bottom: 0px !important;
+}
+
+h3 {
+  text-align: center ;
+  color: red !important;
+  background-color: black !important;
+}
+
+body {
+  background-color: lightgray !important;
+}
+
+#h5 {
+  margin-top: 50px !important;
+}
+
+.img {
+  width: 100% !important;
+}
+
+#center {
+  margin-bottom: 30px !important;
+}
+
+.container {
+  margin-left: 10% !important;
+  margin-top: 5% !important;
+}
